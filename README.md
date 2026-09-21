@@ -31,3 +31,12 @@ Figures in `latex/figures/` are referenced by `paper.tex`; no external assets re
 ## Status
 
 Raw experimental data plus the associated write-up, not a finished product. Known data-validity issues in the Config B runs (ADC ceiling saturation, near-open-circuit operation) are documented in the paper's Results and Discussion sections.
+
+## About the author
+
+**Rohan Rajesh** — North Carolina School of Science and Mathematics, Durham campus (NCSSM-Durham), class of 2027. From Charlotte, NC.
+
+Interests: electrical engineering, systems engineering, control and embedded systems, system architecture, and renewables.
+
+Contact: rajesh.v.rohan@gmail.com
+
